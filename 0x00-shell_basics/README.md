@@ -1,0 +1,1 @@
+pwd- for current part
